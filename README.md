@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***6*** | | WIP |
+| ***7*** | | WIP |
+| ***6*** | False | |
 | ***5*** | False | Did well with Rule #1 and Rule #2, but couldn't do three out of five of my daily stuff, just like Day 3. Overall, it was satisfactory though because I got a lot of [Nsustain](https://github.com/nsustain) maintenance stuff done. |
 | ***4*** | True | |
 | ***3*** | False | I had success with Rule #1 and Rule #2, but broke Rule #3 because I couldn't work on three out of five of my daily dynamic-schedule items. To play devil's advocate, I had to spend ten hours moving. Nonetheless, I feel like I could have done better. |
