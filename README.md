@@ -5,7 +5,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
 | ***8*** | | WIP |
-| ***7*** | False | Same again as Day 3 / Day 5. However, I fixed a bug in [Nsustain Docker Compose file](https://github.com/Nsustain/nsustain.com/blob/main/src/docker/compose.yaml) where the port 80 (http) and 443 (https) are not forwarding at all if I run it from a remote server instead of my usual local server. Also, almost done with migrating from $24/month DigitalOcean Kubernetes `one node of 2 vCPU, 4GB RAM, 80GB storage` to a $8 Hetzner VPS `3 vCPU, 4GB RAM, 80GB storage` because I realized I don't need the horitzontal scalability of K8s at least for the forseeable future. |
+| ***7*** | False | Same again as Day 3 / Day 5. However, I fixed a bug in [Nsustain Docker Compose file](https://github.com/Nsustain/nsustain.com/blob/main/src/docker/compose.yaml) where the port 80 (http) and 443 (https) are not forwarding at all if I run it from a remote server instead of my usual local server. Also, almost done with migrating from $24/month `one node of 2 vCPU, 4GB RAM, 80GB storage` DigitalOcean Kubernetes to a $8/month `3 vCPU, 4GB RAM, 80GB storage` Hetzner VPS because I realized I don't need the horitzontal scalability of K8s at least for the forseeable future, and this allows me to get a single server with more power with less money. |
 | ***6*** | False | |
 | ***5*** | False | Did well with Rule #1 and Rule #2, but couldn't do three out of five of my daily stuff, just like Day 3. Overall, it was satisfactory though because I got a lot of [Nsustain](https://github.com/nsustain) maintenance stuff done. |
 | ***4*** | True | |
