@@ -3,8 +3,9 @@
 Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
-| ---- | ---- | ---- | 
-| ***18*** | | WIP |
+| ---- | ---- | ---- |
+| ***19*** | | WIP |
+| ***18*** | True | |
 | ***17*** | False | Same as Day 7. Couldn't finish Rule #3. On the flip side, I finished my [Google Summer of Code](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools). |
 | ***16*** | False | |
 | ***15*** | True | |
