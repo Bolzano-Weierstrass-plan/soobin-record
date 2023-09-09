@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***20*** | | WIP |
+| ***21*** | | WIP |
+| ***20*** | True | |
 | ***19*** | True | |
 | ***18*** | True | I've discovered that whenever I encounter a problem to solve, it's helpful to think about the problem while walking. If walking is not available, then watching a light YouTube video helps, too. |
 | ***17*** | False | Same as Day 7. Couldn't finish Rule #3. On the flip side, I finished my [Google Summer of Code](https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools). |
