@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***25*** | | WIP |
+| ***26*** | | WIP |
+| ***25*** | Treu | |
 | ***24*** | True | |
 | ***23*** | True | |
 | ***22*** | True | For my *Ethical Issues in Tech* class, I watched [The Social Dillema](https://www.thesocialdilemma.com/). It's the best documentary I've ever watched in my life. |
