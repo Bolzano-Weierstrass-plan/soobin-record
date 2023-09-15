@@ -5,7 +5,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
 | ***27*** | | WIP |
-| ***26*** | False | I wan't able to do 20 minutes of PermaThreads development. It was a streak until yesterday. Hopefully, I'll have nice streaks again. |
+| ***26*** | False | I wans't able to do 20 minutes of PermaThreads development. It was a good 8-day streak until yesterday. Hopefully, I'll have nice streaks again. |
 | ***25*** | True | |
 | ***24*** | True | |
 | ***23*** | True | |
