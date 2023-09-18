@@ -4,8 +4,9 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***30*** | | WIP |
-| ***29*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won [HackMIT 3rd place](https://www.youtube.com/live/WAunf1TDzao?si=OKwnCPYuqZj6cJgb&t=25m36s) out of 174 teams. |
+| ***31*** | | WIP |
+| ***30*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won [HackMIT Grand Prizd 3rd place](https://www.youtube.com/live/WAunf1TDzao?si=OKwnCPYuqZj6cJgb&t=25m36s). Met a lot of cool people ♥️♥️♥️ |
+| ***29*** | False | |
 | ***28*** | False | |
 | ***27*** | False | |
 | ***26*** | False | I wans't able to do 20 minutes of PermaThreads development. It was a good 8-day streak until yesterday. Hopefully, I'll have nice streaks again. |
