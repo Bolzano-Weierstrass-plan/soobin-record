@@ -8,7 +8,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 | ***33*** | True | |
 | ***32*** | True | |
 | ***31*** | False | |
-| ***30*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won [HackMIT Grand Prizd 3rd place](https://www.youtube.com/live/WAunf1TDzao?si=OKwnCPYuqZj6cJgb&t=25m36s). Met a lot of cool people ♥️♥️♥️ |
+| ***30*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won [HackMIT Grand Prize 3rd place](https://www.youtube.com/live/WAunf1TDzao?si=OKwnCPYuqZj6cJgb&t=25m36s). Met a lot of cool people ♥️♥️♥️ |
 | ***29*** | False | |
 | ***28*** | False | |
 | ***27*** | False | |
