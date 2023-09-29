@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***41*** | | WIP |
+| ***42*** | | WIP |
+| ***41*** | Fail | |
 | ***40*** | Fail | I have failed 14 times including this one. I have walked around the campus seven times, so I still have seven more walking to do. |
 | ***39*** | True | |
 | ***38*** | True | |
