@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***50*** | | WIP |
+| ***51*** | | WIP |
+| ***50*** | False | |
 | ***49*** | False | |
 | ***48*** | True | |
 | ***47*** | Fail | I did all three walks today, but ironically failed my main rules. So, one more walk. |
