@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***51*** | | WIP |
+| ***52*** | | WIP |
+| ***51*** | True | My condolences for all innocent lives who lost their lives. |
 | ***50*** | False | |
 | ***49*** | False | |
 | ***48*** | True | |
