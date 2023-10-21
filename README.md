@@ -4,7 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***63*** | | WIP |
+| ***64*** | | WIP |
+| ***63*** | False | |
 | ***62*** | False | Seven walks remaining. |
 | ***61*** | False | |
 | ***60*** | False | |
