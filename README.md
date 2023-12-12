@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***114*** | True | For one of my classes, I had to write an essay on [how to live well](https://github.com/soobinrho/college-programming/tree/main/2023-fall/how-to-live-well). |
 | ***113*** | False | I added one more rule for my dailies: Use the mind palace at least one time a day for remembering, memorizing new stuff, maintaining existing mind palaces, or for whatever purpose. Daily practice of mind palace will be a great habit to have. |
 | ***112*** | False | |
 | ***111*** | False | |
