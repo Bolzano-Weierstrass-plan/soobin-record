@@ -4,6 +4,39 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***208*** | False | Lost myself again... for 33 days... Back to Bolzano-Weierstrass Plan. 33 walks added. |
+| ***207*** | False | |
+| ***206*** | False | |
+| ***205*** | False | |
+| ***204*** | False | |
+| ***203*** | False | |
+| ***202*** | False | |
+| ***201*** | False | |
+| ***200*** | False | |
+| ***199*** | False | |
+| ***198*** | False | |
+| ***197*** | False | |
+| ***196*** | False | |
+| ***195*** | False | |
+| ***194*** | False | |
+| ***193*** | False | |
+| ***192*** | False | |
+| ***191*** | False | |
+| ***190*** | False | |
+| ***189*** | False | |
+| ***188*** | False | |
+| ***187*** | False | |
+| ***186*** | False | |
+| ***185*** | False | |
+| ***184*** | False | |
+| ***183*** | False | |
+| ***182*** | False | |
+| ***181*** | False | |
+| ***180*** | False | |
+| ***179*** | False | |
+| ***178*** | False | |
+| ***177*** | False | |
+| ***176*** | False | |
 | ***175*** | False | |
 | ***174*** | False | |
 | ***173*** | False | |
