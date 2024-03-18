@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***209*** | True | |
 | ***208*** | False | Lost myself again... for 33 days... Back to Bolzano-Weierstrass Plan. 33 walks added. |
 | ***207*** | False | |
 | ***206*** | False | |
