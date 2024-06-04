@@ -4,7 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***285*** | False | Longest streak so far of isSuccessful=False... 176 walkings to do. |
+| ***285*** | False | Longest streak so far of isSuccessful=False (33 days). 176 walkings to do. |
 | ***284*** | False | |
 | ***283*** | False | |
 | ***282*** | False | |
