@@ -4,6 +4,39 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***285*** | False | Longest streak so far of isSuccessful=False... 176 walkings to do. |
+| ***284*** | False | |
+| ***283*** | False | |
+| ***282*** | False | |
+| ***281*** | False | |
+| ***280*** | False | |
+| ***279*** | False | |
+| ***278*** | False | |
+| ***277*** | False | |
+| ***276*** | False | |
+| ***275*** | False | |
+| ***274*** | False | |
+| ***273*** | False | |
+| ***272*** | False | |
+| ***271*** | False | |
+| ***270*** | False | |
+| ***269*** | False | |
+| ***268*** | False | |
+| ***267*** | False | |
+| ***266*** | False | |
+| ***265*** | False | |
+| ***264*** | False | |
+| ***263*** | False | |
+| ***262*** | False | |
+| ***261*** | False | |
+| ***260*** | False | |
+| ***259*** | False | |
+| ***258*** | False | |
+| ***257*** | False | |
+| ***256*** | False | |
+| ***255*** | False | |
+| ***254*** | False | |
+| ***253*** | False | |
 | ***252*** | False | |
 | ***251*** | False | |
 | ***250*** | False | |
