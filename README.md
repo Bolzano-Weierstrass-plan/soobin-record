@@ -4,7 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***352*** | False | |
+| ***352*** | False | 221 remaining. |
 | ***351*** | False | |
 | ***350*** | False | |
 | ***349*** | False | |
