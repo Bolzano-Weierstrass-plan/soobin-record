@@ -4,7 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
-| ***353*** | False | Even though false this time, I did the 50 pushups, squats, wall sit, and plank. |
+| ***353*** | False | Even though false this time, I did the 50 pushups, squats, wall sit, and plank. So, 221 + 1 - 1 = 221 remaining |
 | ***352*** | False | 221 remaining. |
 | ***351*** | False | |
 | ***350*** | False | |
