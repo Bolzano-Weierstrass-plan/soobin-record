@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***357*** | True | 217 remaining. |
 | ***356*** | True | 218 remaining. |
 | ***355*** | True | 219 self-imposed penalty remaining. |
 | ***354*** | True | 220 remaining. Did my daily rules and also did the 50 workout. |
