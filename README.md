@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***358*** | False | 217 remaining (Forgot to do the 10 minute thinking, but did the 50-set workout). |
 | ***357*** | True | 217 remaining. |
 | ***356*** | True | 218 remaining. |
 | ***355*** | True | 219 self-imposed penalty remaining. |
