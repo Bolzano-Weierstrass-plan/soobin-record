@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***358*** | True | 214 remaining. |
 | ***357*** | True | 215 remaining. |
 | ***35ó*** | True | 216 remaining. |
 | ***358*** | False | 217 remaining (Forgot to do the 10 minute thinking, but did the 50-set workout). |
