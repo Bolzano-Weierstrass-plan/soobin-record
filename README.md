@@ -4,6 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***363*** | True | 209 remaining. My wrist got injured. Gotta do more plank instead of pushups for one week. |
+| ***362*** | True | 210 remaining. |
 | ***361*** | True | 211 remaining. |
 | ***360*** | True | 212 remaining. |
 | ***359*** | True | 213 remaining. |
