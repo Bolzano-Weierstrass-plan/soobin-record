@@ -4,6 +4,8 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***365*** | True | 207 remaining. Happy Annoversary! |
+| ***364*** | True | 208 remaining. |
 | ***363*** | True | 209 remaining. My wrist got injured. Gotta do more plank instead of pushups for one week. |
 | ***362*** | True | 210 remaining. |
 | ***361*** | True | 211 remaining. |
