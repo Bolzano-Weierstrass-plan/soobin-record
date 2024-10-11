@@ -4,6 +4,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***347*** | False | 172 remaining. Again, did everything, but forgot to do 10 minutes of reflection / mind palace. |
 | ***346*** | True | 172 remaining. |
 | ***345*** | False | 173 remaining. |
 | ***344*** | True | 173 remaining. |
