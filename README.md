@@ -4,6 +4,12 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***355*** | True | 166 remaining. |
+| ***354*** | True | 167 remaining. |
+| ***353*** | True | 168 remaining. |
+| ***352*** | True | 169 remaining. |
+| ***351*** | True | 170 remaining. |
+| ***350*** | True | 171 remaining. |
 | ***349*** | True | 172 remaining. |
 | ***348*** | False | 173 remaining. |
 | ***347*** | False | 172 remaining. Again, did everything, but forgot to do 10 minutes of reflection / mind palace. |
