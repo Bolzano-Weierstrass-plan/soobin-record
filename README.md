@@ -4,6 +4,9 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***365*** | False | 160 remaining. Happy one year anniversary! |
+| ***364*** | False | 160 remaining. |
+| ***363*** | True | 160 remaining. |
 | ***362*** | True | 161 remaining. |
 | ***361*** | False | 162 remaining. |
 | ***360*** | True | 162 remaining. |
