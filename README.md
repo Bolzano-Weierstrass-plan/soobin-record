@@ -3,7 +3,14 @@
 Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
-| ---- | ---- | ---- |
+| ---- | ---- | ---- 
+| ***385*** | True | 148 remaining. |
+| ***384*** | False | 149 remaining. |
+| ***383*** | False | 149 remaining. |
+| ***382*** | True | 148 remaining. |
+| ***381*** | True | 149 remaining. |
+| ***380*** | True | 150 remaining. |
+| ***379*** | True | 151 remaining. |
 | ***378*** | False | 152 remaining. |
 | ***377*** | True | 151 remaining. |
 | ***376*** | False | 152 remaining. Left-hand rist injury from improper pushups. |
