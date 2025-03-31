@@ -3,7 +3,7 @@ import argparse
 def main(args):
     start_day = int(args.start_day)
     days_total = int(args.days_total)
-    remaining_penalties = int(args.remaining_penalties)
+    remaining_penalties = int(args.remaining_penalties) - 1
     value = str(args.value)
 
     print()
