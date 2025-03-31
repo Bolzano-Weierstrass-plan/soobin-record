@@ -11,16 +11,16 @@ def main(args):
     lines = []
     for i in range(days_total):
         if remaining_penalties > 0:
-            lines.append(f'| {start_day + i} | {value} | {remaining_penalties} remaining. |')
+            lines.append(f'| ***{start_day + i}*** | {value} | {remaining_penalties} remaining. |')
             remaining_penalties -= 1
         else:
-            lines.append(f'| {start_day + i} | {value} | |')
+            lines.append(f'| ***{start_day + i}*** | {value} | |')
     
     for i in range(len(lines))[::-1]:
         print(lines[i])
     
     print()
-    print(f'report: YYYY-MM ({days_total})')
+    print(f'report: YYYY-MM ({days_total} days)')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='CreateRecords',
