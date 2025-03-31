@@ -4,6 +4,37 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***429*** | True | 106 remaining. |
+| ***428*** | True | 107 remaining. |
+| ***427*** | True | 108 remaining. |
+| ***426*** | True | 109 remaining. |
+| ***425*** | True | 110 remaining. |
+| ***424*** | True | 111 remaining. |
+| ***423*** | True | 112 remaining. |
+| ***422*** | True | 113 remaining. |
+| ***421*** | True | 114 remaining. |
+| ***420*** | True | 115 remaining. |
+| ***419*** | True | 116 remaining. |
+| ***418*** | True | 117 remaining. |
+| ***417*** | True | 118 remaining. |
+| ***416*** | True | 119 remaining. |
+| ***415*** | True | 120 remaining. |
+| ***414*** | True | 121 remaining. |
+| ***413*** | True | 122 remaining. |
+| ***412*** | True | 123 remaining. |
+| ***411*** | True | 124 remaining. |
+| ***410*** | True | 125 remaining. |
+| ***409*** | True | 126 remaining. |
+| ***408*** | True | 127 remaining. |
+| ***407*** | True | 128 remaining. |
+| ***406*** | True | 129 remaining. |
+| ***405*** | True | 130 remaining. |
+| ***404*** | True | 131 remaining. |
+| ***403*** | True | 132 remaining. |
+| ***402*** | True | 133 remaining. |
+| ***401*** | True | 134 remaining. |
+| ***400*** | True | 135 remaining. |
+| ***399*** | True | 136 remaining. |
 | ***398*** | False | 137 remaining. |
 | ***397*** | True | 137 remaining. |
 | ***396*** | True | 138 remaining. |
