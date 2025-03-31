@@ -4,6 +4,34 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***488*** | True | 47 remaining. |
+| ***487*** | True | 48 remaining. |
+| ***486*** | True | 49 remaining. |
+| ***485*** | True | 50 remaining. |
+| ***484*** | True | 51 remaining. |
+| ***483*** | True | 52 remaining. |
+| ***482*** | True | 53 remaining. |
+| ***481*** | True | 54 remaining. |
+| ***480*** | True | 55 remaining. |
+| ***479*** | True | 56 remaining. |
+| ***478*** | True | 57 remaining. |
+| ***477*** | True | 58 remaining. |
+| ***476*** | True | 59 remaining. |
+| ***475*** | True | 60 remaining. |
+| ***474*** | True | 61 remaining. |
+| ***473*** | True | 62 remaining. |
+| ***472*** | True | 63 remaining. |
+| ***471*** | True | 64 remaining. |
+| ***470*** | True | 65 remaining. |
+| ***469*** | True | 66 remaining. |
+| ***468*** | True | 67 remaining. |
+| ***467*** | True | 68 remaining. |
+| ***466*** | True | 69 remaining. |
+| ***465*** | True | 70 remaining. |
+| ***464*** | True | 71 remaining. |
+| ***463*** | True | 72 remaining. |
+| ***462*** | True | 73 remaining. |
+| ***461*** | True | 74 remaining. |
 | ***460*** | True | 75 remaining. |
 | ***459*** | True | 76 remaining. |
 | ***458*** | True | 77 remaining. |
