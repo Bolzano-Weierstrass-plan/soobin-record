@@ -4,6 +4,36 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***549*** | True | |
+| ***548*** | True | |
+| ***547*** | True | |
+| ***546*** | True | |
+| ***545*** | True | |
+| ***544*** | True | |
+| ***543*** | True | |
+| ***542*** | True | |
+| ***541*** | True | |
+| ***540*** | True | |
+| ***539*** | True | |
+| ***538*** | True | |
+| ***537*** | True | |
+| ***536*** | True | |
+| ***535*** | True | |
+| ***534*** | True | 1 remaining. |
+| ***533*** | True | 2 remaining. |
+| ***532*** | True | 3 remaining. |
+| ***531*** | True | 4 remaining. |
+| ***530*** | True | 5 remaining. |
+| ***529*** | True | 6 remaining. |
+| ***528*** | True | 7 remaining. |
+| ***527*** | True | 8 remaining. |
+| ***526*** | True | 9 remaining. |
+| ***525*** | True | 10 remaining. |
+| ***524*** | True | 11 remaining. |
+| ***523*** | True | 12 remaining. |
+| ***522*** | True | 13 remaining. |
+| ***521*** | True | 14 remaining. |
+| ***520*** | True | 15 remaining. |
 | ***519*** | True | 16 remaining. |
 | ***518*** | True | 17 remaining. |
 | ***517*** | True | 18 remaining. |
@@ -556,7 +586,7 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 | ***33*** | True | |
 | ***32*** | True | |
 | ***31*** | False | |
-| ***30*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won [HackMIT Grand Prize 3rd place](https://www.youtube.com/live/WAunf1TDzao?si=OKwnCPYuqZj6cJgb&t=25m36s). Met a lot of cool people ♥️♥️♥️ |
+| ***30*** | False | Couldn't do Rule #2 and #3, but visited MIT for the weekend and won HackMIT Grand Prize 3rd place. Met a lot of cool people ♥️♥️♥️ |
 | ***29*** | False | |
 | ***28*** | False | |
 | ***27*** | False | |
