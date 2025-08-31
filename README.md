@@ -4,6 +4,77 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
+| ***743*** | True | |
+| ***742*** | True | |
+| ***741*** | True | |
+| ***740*** | True | |
+| ***739*** | True | |
+| ***738*** | True | |
+| ***737*** | True | |
+| ***736*** | True | |
+| ***735*** | True | |
+| ***734*** | True | |
+| ***733*** | True | |
+| ***732*** | True | |
+| ***731*** | True | |
+| ***730*** | True | |
+| ***729*** | True | |
+| ***728*** | True | |
+| ***727*** | True | |
+| ***726*** | True | |
+| ***725*** | True | |
+| ***724*** | True | |
+| ***723*** | True | |
+| ***722*** | True | |
+| ***721*** | True | |
+| ***720*** | True | |
+| ***719*** | True | |
+| ***718*** | True | |
+| ***717*** | True | |
+| ***716*** | True | |
+| ***715*** | True | |
+| ***714*** | True | |
+| ***713*** | True | |
+| ***712*** | True | |
+| ***711*** | True | |
+| ***710*** | True | |
+| ***709*** | True | |
+| ***708*** | True | |
+| ***707*** | True | |
+| ***706*** | True | |
+| ***705*** | True | |
+| ***704*** | True | |
+| ***703*** | True | |
+| ***702*** | True | |
+| ***701*** | True | |
+| ***700*** | True | |
+| ***699*** | True | |
+| ***698*** | True | |
+| ***697*** | True | |
+| ***696*** | True | |
+| ***695*** | True | |
+| ***694*** | True | |
+| ***693*** | True | |
+| ***692*** | True | |
+| ***691*** | True | |
+| ***690*** | True | |
+| ***689*** | True | |
+| ***688*** | True | |
+| ***687*** | True | |
+| ***686*** | True | |
+| ***685*** | True | |
+| ***684*** | True | |
+| ***683*** | True | |
+| ***682*** | True | |
+| ***681*** | True | |
+| ***680*** | True | |
+| ***679*** | True | |
+| ***678*** | True | |
+| ***677*** | True | |
+| ***676*** | True | |
+| ***675*** | True | |
+| ***674*** | True | |
+| ***673*** | True | |
 | ***672*** | True | |
 | ***671*** | True | |
 | ***670*** | True | |
@@ -82,261 +153,201 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 | ***597*** | True | |
 | ***596*** | True | |
 | ***595*** | True | |
-| ***594*** | True | |
-| ***593*** | True | |
-| ***592*** | True | |
-| ***591*** | True | |
-| ***590*** | True | |
-| ***589*** | True | |
-| ***588*** | True | |
-| ***587*** | True | |
-| ***586*** | True | |
-| ***585*** | True | |
-| ***584*** | True | |
-| ***583*** | True | |
-| ***582*** | True | |
-| ***581*** | True | |
-| ***580*** | True | |
-| ***579*** | True | |
-| ***578*** | True | |
-| ***577*** | True | |
-| ***576*** | True | |
-| ***575*** | True | |
-| ***574*** | True | |
-| ***573*** | True | |
-| ***572*** | True | |
-| ***571*** | True | |
-| ***570*** | True | |
-| ***569*** | True | |
-| ***568*** | True | |
-| ***567*** | True | |
-| ***566*** | True | |
-| ***565*** | True | |
-| ***564*** | True | |
-| ***563*** | True | |
-| ***562*** | True | |
-| ***561*** | True | |
-| ***560*** | True | |
-| ***559*** | True | |
-| ***558*** | True | |
-| ***557*** | True | |
-| ***556*** | True | |
-| ***555*** | True | |
-| ***554*** | True | |
-| ***553*** | True | |
-| ***552*** | True | |
-| ***551*** | True | |
-| ***550*** | True | |
-| ***549*** | True | |
-| ***548*** | True | |
-| ***547*** | True | |
-| ***546*** | True | |
-| ***545*** | True | |
-| ***544*** | True | |
-| ***543*** | True | |
-| ***542*** | True | |
-| ***541*** | True | |
-| ***540*** | True | |
-| ***539*** | True | |
-| ***538*** | True | |
-| ***537*** | True | |
-| ***536*** | True | |
-| ***535*** | True | |
-| ***534*** | True | 1 remaining. |
-| ***533*** | True | 2 remaining. |
-| ***532*** | True | 3 remaining. |
-| ***531*** | True | 4 remaining. |
-| ***530*** | True | 5 remaining. |
-| ***529*** | True | 6 remaining. |
-| ***528*** | True | 7 remaining. |
-| ***527*** | True | 8 remaining. |
-| ***526*** | True | 9 remaining. |
-| ***525*** | True | 10 remaining. |
-| ***524*** | True | 11 remaining. |
-| ***523*** | True | 12 remaining. |
-| ***522*** | True | 13 remaining. |
-| ***521*** | True | 14 remaining. |
-| ***520*** | True | 15 remaining. |
-| ***519*** | True | 16 remaining. |
-| ***518*** | True | 17 remaining. |
-| ***517*** | True | 18 remaining. |
-| ***516*** | True | 19 remaining. |
-| ***515*** | True | 20 remaining. |
-| ***514*** | True | 21 remaining. |
-| ***513*** | True | 22 remaining. |
-| ***512*** | True | 23 remaining. |
-| ***511*** | True | 24 remaining. |
-| ***510*** | True | 25 remaining. |
-| ***509*** | True | 26 remaining. |
-| ***508*** | True | 27 remaining. |
-| ***507*** | True | 28 remaining. |
-| ***506*** | True | 29 remaining. |
-| ***505*** | True | 30 remaining. |
-| ***504*** | True | 31 remaining. |
-| ***503*** | True | 32 remaining. |
-| ***502*** | True | 33 remaining. |
-| ***501*** | True | 34 remaining. |
-| ***500*** | True | 35 remaining. |
-| ***499*** | True | 36 remaining. |
-| ***498*** | True | 37 remaining. |
-| ***497*** | True | 38 remaining. |
-| ***496*** | True | 39 remaining. |
-| ***495*** | True | 40 remaining. |
-| ***494*** | True | 41 remaining. |
-| ***493*** | True | 42 remaining. |
-| ***492*** | True | 43 remaining. |
-| ***491*** | True | 44 remaining. |
-| ***490*** | True | 45 remaining. |
-| ***489*** | True | 46 remaining. |
-| ***488*** | True | 47 remaining. |
-| ***487*** | True | 48 remaining. |
-| ***486*** | True | 49 remaining. |
-| ***485*** | True | 50 remaining. |
-| ***484*** | True | 51 remaining. |
-| ***483*** | True | 52 remaining. |
-| ***482*** | True | 53 remaining. |
-| ***481*** | True | 54 remaining. |
-| ***480*** | True | 55 remaining. |
-| ***479*** | True | 56 remaining. |
-| ***478*** | True | 57 remaining. |
-| ***477*** | True | 58 remaining. |
-| ***476*** | True | 59 remaining. |
-| ***475*** | True | 60 remaining. |
-| ***474*** | True | 61 remaining. |
-| ***473*** | True | 62 remaining. |
-| ***472*** | True | 63 remaining. |
-| ***471*** | True | 64 remaining. |
-| ***470*** | True | 65 remaining. |
-| ***469*** | True | 66 remaining. |
-| ***468*** | True | 67 remaining. |
-| ***467*** | True | 68 remaining. |
-| ***466*** | True | 69 remaining. |
-| ***465*** | True | 70 remaining. |
-| ***464*** | True | 71 remaining. |
-| ***463*** | True | 72 remaining. |
-| ***462*** | True | 73 remaining. |
-| ***461*** | True | 74 remaining. |
-| ***460*** | True | 75 remaining. |
-| ***459*** | True | 76 remaining. |
-| ***458*** | True | 77 remaining. |
-| ***457*** | True | 78 remaining. |
-| ***456*** | True | 79 remaining. |
-| ***455*** | True | 80 remaining. |
-| ***454*** | True | 81 remaining. |
-| ***453*** | True | 82 remaining. |
-| ***452*** | True | 83 remaining. |
-| ***451*** | True | 84 remaining. |
-| ***450*** | True | 85 remaining. |
-| ***449*** | True | 86 remaining. |
-| ***448*** | True | 87 remaining. |
-| ***447*** | True | 88 remaining. |
-| ***446*** | True | 89 remaining. |
-| ***445*** | True | 90 remaining. |
-| ***444*** | True | 91 remaining. |
-| ***443*** | True | 92 remaining. |
-| ***442*** | True | 93 remaining. |
-| ***441*** | True | 94 remaining. |
-| ***440*** | True | 95 remaining. |
-| ***439*** | True | 96 remaining. |
-| ***438*** | True | 97 remaining. |
-| ***437*** | True | 98 remaining. |
-| ***436*** | True | 99 remaining. |
-| ***435*** | True | 100 remaining. |
-| ***434*** | True | 101 remaining. |
-| ***433*** | True | 102 remaining. |
-| ***432*** | True | 103 remaining. |
-| ***431*** | True | 104 remaining. |
-| ***430*** | True | 105 remaining. |
-| ***429*** | True | 106 remaining. |
-| ***428*** | True | 107 remaining. |
-| ***427*** | True | 108 remaining. |
-| ***426*** | True | 109 remaining. |
-| ***425*** | True | 110 remaining. |
-| ***424*** | True | 111 remaining. |
-| ***423*** | True | 112 remaining. |
-| ***422*** | True | 113 remaining. |
-| ***421*** | True | 114 remaining. |
-| ***420*** | True | 115 remaining. |
-| ***419*** | True | 116 remaining. |
-| ***418*** | True | 117 remaining. |
-| ***417*** | True | 118 remaining. |
-| ***416*** | True | 119 remaining. |
-| ***415*** | True | 120 remaining. |
-| ***414*** | True | 121 remaining. |
-| ***413*** | True | 122 remaining. |
-| ***412*** | True | 123 remaining. |
-| ***411*** | True | 124 remaining. |
-| ***410*** | True | 125 remaining. |
-| ***409*** | True | 126 remaining. |
-| ***408*** | True | 127 remaining. |
-| ***407*** | True | 128 remaining. |
-| ***406*** | True | 129 remaining. |
-| ***405*** | True | 130 remaining. |
-| ***404*** | True | 131 remaining. |
-| ***403*** | True | 132 remaining. |
-| ***402*** | True | 133 remaining. |
-| ***401*** | True | 134 remaining. |
-| ***400*** | True | 135 remaining. |
-| ***399*** | True | 136 remaining. |
-| ***398*** | False | 137 remaining. |
-| ***397*** | True | 137 remaining. |
-| ***396*** | True | 138 remaining. |
-| ***395*** | False | 139 remaining. |
-| ***394*** | True | 139 remaining. |
-| ***393*** | True | 140 remaining. |
-| ***392*** | True | 141 remaining. |
-| ***391*** | True | 142 remaining. |
-| ***390*** | True | 143 remaining. |
-| ***389*** | True | 144 remaining. |
-| ***388*** | True | 145 remaining. |
-| ***387*** | True | 146 remaining. |
-| ***386*** | True | 147 remaining. |
-| ***385*** | True | 148 remaining. |
-| ***384*** | False | 149 remaining. |
-| ***383*** | False | 149 remaining. |
-| ***382*** | True | 148 remaining. |
-| ***381*** | True | 149 remaining. |
-| ***380*** | True | 150 remaining. |
-| ***379*** | True | 151 remaining. |
-| ***378*** | False | 152 remaining. |
-| ***377*** | True | 151 remaining. |
-| ***376*** | False | 152 remaining. Left-hand rist injury from improper pushups. |
-| ***375*** | True | 151 remaining. |
-| ***374*** | True | 152 remaining. |
-| ***373*** | True | 153 remaining. |
-| ***372*** | True | 154 remaining. |
-| ***371*** | True | 155 remaining. |
-| ***370*** | True | 156 remaining. |
-| ***369*** | False | 157 remaining. |
-| ***368*** | True | 157 remaining. |
-| ***367*** | True | 158 remaining. |
-| ***366*** | True | 159 remaining. |
-| ***365*** | False | 160 remaining. Happy one year anniversary! |
-| ***364*** | False | 160 remaining. |
-| ***363*** | True | 160 remaining. |
-| ***362*** | True | 161 remaining. |
-| ***361*** | False | 162 remaining. |
-| ***360*** | True | 162 remaining. |
-| ***359*** | False | 163 remaining. |
-| ***358*** | True | 163 remaining. |
-| ***357*** | True | 164 remaining. |
-| ***356*** | True | 165 remaining. |
-| ***355*** | True | 166 remaining. |
-| ***354*** | True | 167 remaining. |
-| ***353*** | True | 168 remaining. |
-| ***352*** | True | 169 remaining. |
-| ***351*** | True | 170 remaining. |
-| ***350*** | True | 171 remaining. |
-| ***349*** | True | 172 remaining. |
-| ***348*** | False | 173 remaining. |
-| ***347*** | False | 172 remaining. Again, did everything, but forgot to do 10 minutes of reflection / mind palace. |
-| ***346*** | True | 172 remaining. |
-| ***345*** | False | 173 remaining. |
-| ***344*** | True | 173 remaining. |
-| ***343*** | True | 174 remaining. |
-| ***342*** | True | 175 remaining. |
-| ***341*** | True | 176 remaining. |
-| ***340*** | True | 178 remaining. |
+| ***594*** | True | 1 remaining. |
+| ***593*** | True | 2 remaining. |
+| ***592*** | True | 3 remaining. |
+| ***591*** | True | 4 remaining. |
+| ***590*** | True | 5 remaining. |
+| ***589*** | True | 6 remaining. |
+| ***588*** | True | 7 remaining. |
+| ***587*** | True | 8 remaining. |
+| ***586*** | True | 9 remaining. |
+| ***585*** | True | 10 remaining. |
+| ***584*** | True | 11 remaining. |
+| ***583*** | True | 12 remaining. |
+| ***582*** | True | 13 remaining. |
+| ***581*** | True | 14 remaining. |
+| ***580*** | True | 15 remaining. |
+| ***579*** | True | 16 remaining. |
+| ***578*** | True | 17 remaining. |
+| ***577*** | True | 18 remaining. |
+| ***576*** | True | 19 remaining. |
+| ***575*** | True | 20 remaining. |
+| ***574*** | True | 21 remaining. |
+| ***573*** | True | 22 remaining. |
+| ***572*** | True | 23 remaining. |
+| ***571*** | True | 24 remaining. |
+| ***570*** | True | 25 remaining. |
+| ***569*** | True | 26 remaining. |
+| ***568*** | True | 27 remaining. |
+| ***567*** | True | 28 remaining. |
+| ***566*** | True | 29 remaining. |
+| ***565*** | True | 30 remaining. |
+| ***564*** | True | 31 remaining. |
+| ***563*** | True | 32 remaining. |
+| ***562*** | True | 33 remaining. |
+| ***561*** | True | 34 remaining. |
+| ***560*** | True | 35 remaining. |
+| ***559*** | True | 36 remaining. |
+| ***558*** | True | 37 remaining. |
+| ***557*** | True | 38 remaining. |
+| ***556*** | True | 39 remaining. |
+| ***555*** | True | 40 remaining. |
+| ***554*** | True | 41 remaining. |
+| ***553*** | True | 42 remaining. |
+| ***552*** | True | 43 remaining. |
+| ***551*** | True | 44 remaining. |
+| ***550*** | True | 45 remaining. |
+| ***549*** | True | 46 remaining. |
+| ***548*** | True | 47 remaining. |
+| ***547*** | True | 48 remaining. |
+| ***546*** | True | 49 remaining. |
+| ***545*** | True | 50 remaining. |
+| ***544*** | True | 51 remaining. |
+| ***543*** | True | 52 remaining. |
+| ***542*** | True | 53 remaining. |
+| ***541*** | True | 54 remaining. |
+| ***540*** | True | 55 remaining. |
+| ***539*** | True | 56 remaining. |
+| ***538*** | True | 57 remaining. |
+| ***537*** | True | 58 remaining. |
+| ***536*** | True | 59 remaining. |
+| ***535*** | True | 60 remaining. |
+| ***534*** | True | 61 remaining. |
+| ***533*** | True | 62 remaining. |
+| ***532*** | True | 63 remaining. |
+| ***531*** | True | 64 remaining. |
+| ***530*** | True | 65 remaining. |
+| ***529*** | True | 66 remaining. |
+| ***528*** | True | 67 remaining. |
+| ***527*** | True | 68 remaining. |
+| ***526*** | True | 69 remaining. |
+| ***525*** | True | 70 remaining. |
+| ***524*** | True | 71 remaining. |
+| ***523*** | True | 72 remaining. |
+| ***522*** | True | 73 remaining. |
+| ***521*** | True | 74 remaining. |
+| ***520*** | True | 75 remaining. |
+| ***519*** | True | 76 remaining. |
+| ***518*** | True | 77 remaining. |
+| ***517*** | True | 78 remaining. |
+| ***516*** | True | 79 remaining. |
+| ***515*** | True | 80 remaining. |
+| ***514*** | True | 81 remaining. |
+| ***513*** | True | 82 remaining. |
+| ***512*** | True | 83 remaining. |
+| ***511*** | True | 84 remaining. |
+| ***510*** | True | 85 remaining. |
+| ***509*** | True | 86 remaining. |
+| ***508*** | True | 87 remaining. |
+| ***507*** | True | 88 remaining. |
+| ***506*** | True | 89 remaining. |
+| ***505*** | True | 90 remaining. |
+| ***504*** | True | 91 remaining. |
+| ***503*** | True | 92 remaining. |
+| ***502*** | True | 93 remaining. |
+| ***501*** | True | 94 remaining. |
+| ***500*** | True | 95 remaining. |
+| ***499*** | True | 96 remaining. |
+| ***498*** | True | 97 remaining. |
+| ***497*** | True | 98 remaining. |
+| ***496*** | True | 99 remaining. |
+| ***495*** | True | 100 remaining. |
+| ***494*** | True | 101 remaining. |
+| ***493*** | True | 102 remaining. |
+| ***492*** | True | 103 remaining. |
+| ***491*** | True | 104 remaining. |
+| ***490*** | True | 105 remaining. |
+| ***489*** | True | 106 remaining. |
+| ***488*** | True | 107 remaining. |
+| ***487*** | True | 108 remaining. |
+| ***486*** | True | 109 remaining. |
+| ***485*** | True | 110 remaining. |
+| ***484*** | True | 111 remaining. |
+| ***483*** | True | 112 remaining. |
+| ***482*** | True | 113 remaining. |
+| ***481*** | True | 114 remaining. |
+| ***480*** | True | 115 remaining. |
+| ***479*** | True | 116 remaining. |
+| ***478*** | True | 117 remaining. |
+| ***477*** | True | 118 remaining. |
+| ***476*** | True | 119 remaining. |
+| ***475*** | True | 120 remaining. |
+| ***474*** | True | 121 remaining. |
+| ***473*** | True | 122 remaining. |
+| ***472*** | True | 123 remaining. |
+| ***471*** | True | 124 remaining. |
+| ***470*** | True | 125 remaining. |
+| ***469*** | True | 126 remaining. |
+| ***468*** | True | 127 remaining. |
+| ***467*** | True | 128 remaining. |
+| ***466*** | True | 129 remaining. |
+| ***465*** | True | 130 remaining. |
+| ***464*** | True | 131 remaining. |
+| ***463*** | True | 132 remaining. |
+| ***462*** | True | 133 remaining. |
+| ***461*** | True | 134 remaining. |
+| ***460*** | True | 135 remaining. |
+| ***459*** | False | 136 remaining. |
+| ***458*** | True | 136 remaining. |
+| ***457*** | True | 137 remaining. |
+| ***456*** | False | 138 remaining. |
+| ***455*** | True | 138 remaining. |
+| ***454*** | True | 139 remaining. |
+| ***453*** | True | 140 remaining. |
+| ***452*** | True | 141 remaining. |
+| ***451*** | True | 142 remaining. |
+| ***450*** | True | 143 remaining. |
+| ***449*** | True | 144 remaining. |
+| ***448*** | True | 145 remaining. |
+| ***447*** | True | 146 remaining. |
+| ***446*** | True | 147 remaining. |
+| ***445*** | False | 148 remaining. |
+| ***444*** | False | 147 remaining. |
+| ***443*** | True | 147 remaining. |
+| ***442*** | True | 148 remaining. |
+| ***441*** | True | 149 remaining. |
+| ***440*** | True | 150 remaining. |
+| ***439*** | False | 151 remaining. |
+| ***438*** | True | 151 remaining. |
+| ***437*** | False | 152 remaining. Left-hand rist injury from improper pushups. |
+| ***436*** | True | 152 remaining. |
+| ***435*** | True | 153 remaining. |
+| ***434*** | True | 154 remaining. |
+| ***433*** | True | 155 remaining. |
+| ***432*** | True | 156 remaining. |
+| ***431*** | True | 157 remaining. |
+| ***430*** | False | 158 remaining. |
+| ***429*** | True | 158 remaining. |
+| ***428*** | True | 159 remaining. |
+| ***427*** | True | 160 remaining. |
+| ***426*** | False | 161 remaining. |
+| ***425*** | False | 160 remaining. |
+| ***424*** | True | 160 remaining. |
+| ***423*** | True | 161 remaining. |
+| ***422*** | False | 162 remaining. |
+| ***421*** | True | 162 remaining. |
+| ***420*** | False | 163 remaining. |
+| ***419*** | True | 163 remaining. |
+| ***418*** | True | 164 remaining. |
+| ***417*** | True | 165 remaining. |
+| ***416*** | True | 166 remaining. |
+| ***415*** | True | 167 remaining. |
+| ***414*** | True | 168 remaining. |
+| ***413*** | True | 169 remaining. |
+| ***412*** | True | 170 remaining. |
+| ***411*** | True | 171 remaining. |
+| ***410*** | True | 172 remaining. |
+| ***409*** | False | 173 remaining. |
+| ***408*** | False | 172 remaining. Again, did everything, but forgot to do 10 minutes of reflection / mind palace. |
+| ***407*** | True | 172 remaining. |
+| ***406*** | False | 173 remaining. |
+| ***405*** | True | 173 remaining. |
+| ***404*** | True | 174 remaining. |
+| ***403*** | True | 175 remaining. |
+| ***402*** | True | 176 remaining. |
+| ***401*** | True | 177 remaining. |
+| ***400*** | True | 178 remaining. |
 | ***399*** | True | 179 remaining. |
 | ***398*** | True | 180 remaining. |
 | ***397*** | True | 181 remaining. |
