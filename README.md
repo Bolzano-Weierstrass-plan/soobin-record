@@ -27,6 +27,8 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 2. Walking is a member of the subset of all things I want in my life. Stuck in a big, intricate problem? Take a walk. Feeling like every inch of my mind and body wants to default back to the old habits of doomscrolling? Take a walk. Doesn't have to be outdoors; I can walk in my apartment or even in my office through the staircase and the parking ramp.
 
+3. "Fear is the mind killer ... Let it pass over me and through me." (Dune Chronicles House Corrino)
+ 
 <br>
 <br>
 <br>
