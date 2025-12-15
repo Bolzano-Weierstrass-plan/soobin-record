@@ -14,9 +14,16 @@ I would like to live my life the way I want to live, and not the way billion-dol
 Instead, I will do my best to understand what it is exactly the kind of life I want to live, and will try my best to spend every bit of my given time in ways I think will best fit my wants, desires, and intentions.
 
 No, goal is not to micro-manage every minute.
-The goal is to have a full control over my own actions by refusing to get swayed by my old random habits and instead forming the exact types of habit I want to have in my life with my own choice.
+The goal is to have a full control over my own actions by refusing to get swayed by my old, random habits and instead forming the exact types of habit I want to have in my life with my own choice.
 No micro-management.
 A personal beacon of lighthouse by which I will do my best to navigate my life to the best of my knowledge, despite fully knowing that mistakes will be made as it is only human to have imperfections.
+
+<br>
+<br>
+
+## Observations
+
+1. My mind and body automatically default to opening my phone and scrolling Reddit, LinkedIn, YouTube, or Hacker News whenever I'm (a) waking up in the morning; (b) waiting for something, for example waiting for curbside pickup for my groceries; or (c) getting ready for sleep. I do not blame these because even if I were born in the 20th century, I would have resorted back to some other kind of random habits, such as reading a newspaper. I just needed to recognize that these are my old, random habits.
 
 <br>
 <br>
