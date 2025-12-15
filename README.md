@@ -1,5 +1,11 @@
 ## Daily Record of the Bolzano-Weierstrass Plan
 
+<br>
+
+Homepage: https://github.com/Bolzano-Weierstrass-plan
+
+<br>
+
 Everyone has been given a certain amount of time in life.
 It sounds like a cliche, but we can live only one life.
 Death is a part of our life cycle as much as birth is.
@@ -12,7 +18,8 @@ The goal is to have a full control over my own actions by refusing to get swayed
 No micro-management.
 A personal beacon of lighthouse by which I will do my best to navigate my life to the best of my knowledge, despite fully knowing that mistakes will be made as it is only human to have imperfections.
 
-Homepage: https://github.com/Bolzano-Weierstrass-plan
+<br>
+<br>
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
