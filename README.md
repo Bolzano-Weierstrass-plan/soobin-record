@@ -27,6 +27,7 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 <br>
 <br>
+<br>
 
 | ***day*** | ***isSuccessful*** | ***notes*** |
 | ---- | ---- | ---- |
