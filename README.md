@@ -23,7 +23,7 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 ## Observations
 
-1. My mind and body automatically default to opening my phone and scrolling Reddit, LinkedIn, YouTube, or Hacker News whenever I'm (a) waking up in the morning; (b) waiting for something, for example waiting for curbside pickup for my groceries; or (c) getting ready for sleep. I do not blame these because even if I were born in the 20th century, I would have resorted back to some other kind of random habits, such as reading a newspaper. I just needed to recognize that these are my old, random habits which were not my intent at all.
+1. My mind and body automatically default to opening my phone and scrolling Reddit, LinkedIn, YouTube, or Hacker News whenever I'm (a) waking up in the morning; (b) waiting for something, for example waiting for curbside pickup for my groceries; or (c) getting ready for sleep. I do not blame these because even if I were born in the 20th century, I would have resorted back to some other kind of random habits, such as reading a newspaper. I just needed to recognize that these are my old, random habits formed not by my intention but by other factors surrounding me in my environment.
 
 2. Walking is a member of the subset of all things I want in my life. Stuck in a big, intricate problem? Take a walk. Feeling like every inch of my mind and body wants to default back to the old habits of doomscrolling? Take a walk. Doesn't have to be outdoors; I can walk in my apartment or even in my office through the staircase and the parking ramp.
 
