@@ -27,8 +27,10 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 2. Walking is a member of the subset of all things I want in my life. Stuck in a big, intricate problem? Take a walk. Feeling like every inch of my mind and body wants to default back to the old habits of doomscrolling? Take a walk. Doesn't have to be outdoors; I can walk in my apartment or even in my office through the staircase and the parking ramp.
 
+![Two sets. A set of all things I want in my life. This includes walking; and re-reading and reinforcing this very page. A set of all things I never want in my life, which includes doomscrolling on billion-dollar apps and watching short-form videos.](https://github.com/user-attachments/assets/3939431f-57c1-4abe-9b3c-d020cb3a9832)
+
 3. "Fear is the mind killer ... Let it pass over me and through me." (Dune Chronicles House Corrino)
- 
+
 <br>
 <br>
 <br>
