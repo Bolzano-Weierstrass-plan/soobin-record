@@ -35,6 +35,8 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 5. Whenever walking for the daily mind-palace exercise, speaking out loud the visual things I see helps. Otherwise, I can manytimes find myself drifting into aimless non-thoughts.
 
+6. In addition to (5), speaking out loud while walking in the daily mind palace is therapeutic. A large part of my memories can come back in this walk -- great for remembering and thereby learning from my own past to better prepare for the future.
+
 <br>
 <br>
 <br>
