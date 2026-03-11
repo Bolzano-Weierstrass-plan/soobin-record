@@ -33,6 +33,8 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 4. I think there was a saying that walking works so well to help you think because human minds tend to get distracted, and walking allows you to just focus on one thing and not get distracted. Maybe this is why: I found walking around my home while listening to video lectures helps me focus better than sitting like a duck.
 
+5. Whenever walking for the daily mind-palace exercise, speaking out loud the visual things I see helps. Otherwise, I can manytimes find myself drifting into aimless non-thoughts.
+
 <br>
 <br>
 <br>
