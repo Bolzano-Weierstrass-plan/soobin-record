@@ -37,7 +37,9 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 6. In addition to (5), speaking out loud while walking in the daily mind palace is therapeutic. A large part of my memories can come back in this walk -- great for remembering and thereby learning from my own past to better prepare for the future.
 
-7. Professor Matt Might: "there is value in the philosophy of making exercise as easy and as accessible as possible." He used this principle for [losing fat and gaining strength](https://matt.might.net/articles/hacking-strength/) in this case, but the principle of least resistance applies for other initiatives too. Use this for forming new habits that I want in my life. 
+7. Professor Matt Might: "there is value in the philosophy of making exercise as easy and as accessible as possible." He used this principle for [losing fat and gaining strength](https://matt.might.net/articles/hacking-strength/) in this case, but the principle of least resistance applies for other initiatives too. Use this for forming new habits that I want in my life.
+
+8. "In a family or a relationship, every member needs to know the stress level and work load of every other member ... It is also important to maintain explicit, dispassionate communication of stress level: if you're stressed or becoming stressed, warn your family ... relying on telepathy is the most efficient way to doom a good relationship." (https://matt.might.net/articles/work-life-balance/)
 
 <br>
 <br>
