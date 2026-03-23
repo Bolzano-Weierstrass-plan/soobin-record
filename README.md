@@ -41,6 +41,8 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 8. "In a family or a relationship, every member needs to know the stress level and work load of every other member ... It is also important to maintain explicit, dispassionate communication of stress level: if you're stressed or becoming stressed, warn your family ... relying on telepathy is the most efficient way to doom a good relationship." (https://matt.might.net/articles/work-life-balance/)
 
+9. "Take regular breaks using the '20-20-20' rule: every 20 minutes, shift your eyes to look at an object at least 20 feet away for at least 20 seconds." (https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it)
+
 <br>
 <br>
 <br>
