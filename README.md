@@ -48,7 +48,7 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 10. [Method of Loci](https://www.magneticmemorymethod.com/method-of-loci/) -> [How to remember names well](https://www.magneticmemorymethod.com/remember-names/) -> Major System -> [PAO (Person-Action-Object) System](https://www.magneticmemorymethod.com/pao-system/).
 
 Remember Socrates was worried that we will lose the ability to think when we use writing.
-I disagree with is antagonism against writing.
+I disagree with his antagonism against writing.
 However, I still feel the need to treat thinking as a form of exercise, a gym workout.
 
 Don't let your hand grab a pen or start writing until the thinking has done its fair share of workout.
