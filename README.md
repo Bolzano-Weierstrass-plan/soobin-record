@@ -43,7 +43,16 @@ A personal beacon of lighthouse by which I will do my best to navigate my life t
 
 9. "Take regular breaks using the '20-20-20' rule: every 20 minutes, shift your eyes to look at an object at least 20 feet away for at least 20 seconds." (https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it)
 
-10. [Method of Loci](https://www.magneticmemorymethod.com/method-of-loci/) -> [How to remember names well](https://www.magneticmemorymethod.com/remember-names/) -> Major System -> [PAO (Person-Action-Object) System](https://www.magneticmemorymethod.com/pao-system/)
+<br>
+
+10. [Method of Loci](https://www.magneticmemorymethod.com/method-of-loci/) -> [How to remember names well](https://www.magneticmemorymethod.com/remember-names/) -> Major System -> [PAO (Person-Action-Object) System](https://www.magneticmemorymethod.com/pao-system/).
+
+Remember Socrates was worried that we will lose the ability to think when we use writing.
+I disagree with is antagonism against writing.
+However, I still feel the need to treat thinking as a form of exercise, a gym workout.
+
+Don't let your hand grab a pen or start writing until the thinking has done its fair share of workout.
+Until then, let my hands and the rest of my body be still so that my thinking muscle can do its thing to grow.
 
 <br>
 <br>
