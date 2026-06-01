@@ -7,16 +7,14 @@ Homepage: https://github.com/Bolzano-Weierstrass-plan
 <br>
 
 Everyone has been given a certain amount of time in life.
-It sounds like a cliche, but we can live only one life.
-Death is a part of our life cycle as much as birth is.
-I would like to live my life the way I want to live, and not the way billion-dollar algorithms want me to live; and not the way my old, random habits lead me to live.
+I would like to live my life the way I want to live, and not the way my old, random habits (or billion-dollar algorithms) want me to live.
+I want to understand what I want in my life and try my best to do exactly that.
 
-Instead, I will do my best to understand what it is exactly the kind of life I want to live, and will try my best to spend every bit of my given time in ways I think will best fit my wants, desires, and intentions.
-
-No, goal is not to micro-manage every minute.
-The goal is to have a full control over my own actions by refusing to get swayed by my old, random habits and instead forming the exact types of habit I want to have in my life with my own choice.
+No, my goal is not to micro-manage every minute of my life.
+Instead, my goal is to have control.
 No micro-management.
-A personal beacon of lighthouse by which I will do my best to navigate my life to the best of my knowledge, despite fully knowing that mistakes will be made as it is only human to have imperfections.
+A personal beacon of lighthouse by which I will do my best to navigate.
+This is despite fully knowing that mistakes will be made as it is only human to have imperfections.
 
 <br>
 <br>
