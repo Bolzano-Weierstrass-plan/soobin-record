@@ -53,6 +53,10 @@ Don't let your hand grab a pen or start writing until the thinking has done its 
 Until then, let my hands and the rest of my body be still so that my thinking muscle can do its thing to grow.
 
 <br>
+
+11. It seems wise to reserve at least a small portion of time everyday for totally-unplanned stuff, whether it be watching random videos on YouTube, doomscrolling on Reddit, or playing a video game. It seems counterproductive to allocate all available time of my life to planned stuff; there must be room for unplanned stuff.
+
+<br>
 <br>
 <br>
 
