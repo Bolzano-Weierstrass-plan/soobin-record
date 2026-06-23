@@ -56,6 +56,8 @@ Until then, let my hands and the rest of my body be still so that my thinking mu
 
 11. It seems wise to reserve at least a small portion of time everyday for totally-unplanned stuff, whether it be watching random videos on YouTube, doomscrolling on Reddit, or playing a video game. It seems counterproductive to allocate all available time of my life to planned stuff; there must be room for unplanned stuff.
 
+12. Analogy with the top-rope climbing: whenever my arms are tired, I need to get in a stance where I can rest my arms as best as I can. In the same way, whenever my own behavior feels tiring, I need to learn how to let my brains rest as best as I can.
+
 <br>
 <br>
 <br>
