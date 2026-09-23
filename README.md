@@ -58,6 +58,8 @@ Until then, let my hands and the rest of my body be still so that my thinking mu
 
 12. Analogy with the top-rope climbing: whenever my arms are tired, I need to get in a stance where I can rest my arms as best as I can. In the same way, whenever my own behavior feels tiring, I need to learn how to let my brains rest as best as I can.
 
+13. Not my idea. Can’t remember where I read this from. If you have three hours to dedicate to learning about something in a week, doing it for 30 minutes times six is better than 60 minutes times three. Since there’s less gap between the learning, you need to spend less time trying to remember what you learned the last time. Moreover, this helps us to build up consistency as a form of habit.
+
 <br>
 <br>
 <br>
